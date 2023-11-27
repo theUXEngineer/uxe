@@ -1,22 +1,44 @@
 ---
+title: UX Engineer
+hero: "/static/img/fb-cover.jpg"
 layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+# UX Engineer
 
-Includes [Decap CMS](https://www.decapcms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+UX/UI Design + Front-End Engineering
 
-[Log in to the Decap CMS dashboard](/admin/)
+<a href="/jobs/?src=home">UX Engineer Jobs</a>
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+\[title style="center" text="UXE Career Information" tag\_name="h2" margin\_top="30px" margin\_bottom="-15px" size="80"\]
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+\[button text="See All UXE Career Articles" letter\_case="lowercase" style="link" size="small" radius="99" expand="true" icon="icon-angle-right" link="/career-information/" target="\_blank" class="all-post-button"\]
+
+\[blog\_posts style="default" type="row" columns\_\_md="2" ids="1686,19,62,216" show\_date="false" comments="false" image\_height="175px" image\_size="large" image\_hover="zoom-long" text\_align="left"\]
+
+\[title style="bold-center" text="UX/UI Design Articles" tag\_name="h2" margin\_top="0px" margin\_bottom="-15px" size="80"\]
+
+\[button text="See All UX/UI Design Articles" letter\_case="lowercase" style="link" size="small" radius="99" expand="true" icon="icon-angle-right" link="/design/" target="\_blank" class="all-post-button"\]
+
+\[blog\_posts style="default" type="row" columns\_\_md="2" cat="26" posts="4" show\_date="false" comments="false" image\_height="175px" image\_size="large" image\_hover="zoom-long" text\_align="left"\]
+
+\[title style="bold-center" text="Front-End Dev Articles" tag\_name="h2" margin\_top="0px" margin\_bottom="-15px" size="80"\]
+
+\[button text="See All Front-End Dev Articles" letter\_case="lowercase" style="link" size="small" radius="99" expand="true" icon="icon-angle-right" link="/development/" target="\_blank" class="all-post-button"\]
+
+\[blog\_posts style="default" type="row" columns\_\_md="2" cat="27" posts="4" show\_date="false" comments="false" image\_height="175px" image\_size="large" image\_hover="zoom-long" text\_align="left"\]
+
+\[gap height="60px"\]
+
+\[/section\] \[section bg\_color="rgb(238, 238, 238)" padding="0px" margin="0px" visibility="hidden"\]
+
+\[title style="bold-center" text="UXE Updates" tag\_name="h2" margin\_top="0px" margin\_bottom="-15px" size="80"\]
+
+\[button text="See All UXE Updates" letter\_case="lowercase" style="link" size="small" radius="99" expand="true" icon="icon-angle-right" link="/development/" target="\_blank" class="all-post-button"\]
+
+\[blog\_posts style="default" type="row" columns\_\_md="2" cat="37" posts="4" show\_date="false" comments="false" image\_height="175px" image\_size="large" image\_hover="zoom-long" text\_align="left"\]
