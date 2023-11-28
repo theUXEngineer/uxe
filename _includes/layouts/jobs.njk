@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+section: jobs
+---
+
+<h1>Job Listings</h1>
+
+{% set js %}
+    {% include "../assets/js/jobs.js" %}
+{% endset %}
+
+<ul>
+  {% for job in jobListings %}
+    <li>{{ job.title }} - {{ job.company }}</li>
+  {% endfor %}
+</ul>
+
+<script>{{ js | jsmin | safe }}</script>
